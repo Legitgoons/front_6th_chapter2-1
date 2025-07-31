@@ -1,0 +1,4 @@
+*.test.js
+*.spec.js
+vite.config.js
+eslint.config.js
